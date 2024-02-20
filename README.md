@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azamafridi23&label=Profile%20views&color=0e75b6&style=flat" alt="azamafridi23" /> </p>
 
-- 🔭 I’m currently working on [Fully functional blog application using django](https://github.com/azamafridi23/Django-Tutorials)
+- 🔭 I’m currently working on [Multilingual Video Translation and Context Specific Chatbot Application](https://github.com/azamafridi23/VideoTranslate-ChatQA)
 
 - 🌱 I’m currently learning **Cloud Computing for Machine Learning Applications**
 
